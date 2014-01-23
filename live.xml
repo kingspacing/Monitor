@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<livelist>
+   <lives id="live1" name="一年级1班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>  
+   </lives>
+   <lives id="live2" name="一年级2班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+   </lives>
+   <lives id="live3" name="一年级3班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live3.mp4" HD="media/cartoon/live3.mp4"/>
+   </lives>
+   <lives id="live4" name="一年级4班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live3.mp4" HD="media/cartoon/live3.mp4"/>
+       <live channel="channel4" SD="media/cartoon/live4.mp4" HD="media/cartoon/live4.mp4"/>
+   </lives>
+   
+   <lives id="live5" name="二年级1班">
+       <live channel="channel1" SD="media/cartoon/live5.mp4" HD="media/cartoon/live5.mp4"/>  
+   </lives>
+   <lives id="live6" name="二年级2班">
+       <live channel="channel1" SD="media/cartoon/live5.mp4" HD="media/cartoon/live5.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live6.mp4" HD="media/cartoon/live6.mp4"/>
+   </lives>
+   <lives id="live7" name="二年级3班">
+       <live channel="channel1" SD="media/cartoon/live5.mp4" HD="media/cartoon/live5.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live6.mp4" HD="media/cartoon/live6.mp4"/>
+   </lives>
+   <lives id="live8" name="二年级4班">
+       <live channel="channel1" SD="media/cartoon/live5.mp4" HD="media/cartoon/live5.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live6.mp4" HD="media/cartoon/live6.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live7.mp4" HD="media/cartoon/live7.mp4"/>
+   </lives>
+                            
+   <lives id="live9" name="三年级1班">
+       <live channel="channel1" SD="media/cartoon/live9.mp4" HD="media/cartoon/live9.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live10.mp4" HD="media/cartoon/live10.mp4"/>
+   </lives>
+   <lives id="live10" name="三年级2班">
+       <live channel="channel1" SD="media/cartoon/live9.mp4" HD="media/cartoon/live9.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live10.mp4" HD="media/cartoon/live10.mp4"/>
+        <live channel="channel3" SD="media/cartoon/live11.mp4" HD="media/cartoon/live11.mp4"/>
+   </lives>
+   <lives id="live11" name="三年级3班">
+       <live channel="channel1" SD="media/cartoon/live9.mp4" HD="media/cartoon/live9.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live10.mp4" HD="media/cartoon/live10.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live11.mp4" HD="media/cartoon/live11.mp4"/>
+   </lives>
+   <lives id="live12" name="三年级4班">
+       <live channel="channel1" SD="media/cartoon/live9.mp4" HD="media/cartoon/live9.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live10.mp4" HD="media/cartoon/live10.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live11.mp4" HD="media/cartoon/live11.mp4"/>
+       <live channel="channel4" SD="media/cartoon/live12.mp4" HD="media/cartoon/live12.mp4"/>
+   </lives>
+   
+   
+   <lives id="live13" name="四年级1班">
+      <live channel="channel1" SD="media/cartoon/live13.mp4" HD="media/cartoon/live13.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live14.mp4" HD="media/cartoon/live14.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live15.mp4" HD="media/cartoon/live15.mp4"/>
+       <live channel="channel4" SD="media/cartoon/live16.mp4" HD="media/cartoon/live16.mp4"/> 
+   </lives>
+   <lives id="live14" name="四年级2班">
+       <live channel="channel1" SD="media/cartoon/live13.mp4" HD="media/cartoon/live13.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live14.mp4" HD="media/cartoon/live14.mp4"/>
+   </lives>
+   <lives id="live15" name="四年级3班">
+       <live channel="channel1" SD="media/cartoon/live13.mp4" HD="media/cartoon/live13.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live14.mp4" HD="media/cartoon/live14.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live15.mp4" HD="media/cartoon/live15.mp4"/>
+   </lives>
+   <lives id="live16" name="四年级4班">
+       <live channel="channel1" SD="media/cartoon/live13.mp4" HD="media/cartoon/live13.mp4"/>
+   </lives>
+   
+   
+   <lives id="live17" name="五年级1班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live3.mp4" HD="media/cartoon/live3.mp4"/>
+   </lives>
+   <lives id="live18" name="五年级2班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>  
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+   </lives>
+   <lives id="live19" name="五年级3班">
+       <live channel="channel1" SD="media/cartoon/live1.mp4" HD="media/cartoon/live1.mp4"/>
+       <live channel="channel2" SD="media/cartoon/live2.mp4" HD="media/cartoon/live2.mp4"/>
+       <live channel="channel3" SD="media/cartoon/live3.mp4" HD="media/cartoon/live3.mp4"/>
+   </lives>
+</livelist>
